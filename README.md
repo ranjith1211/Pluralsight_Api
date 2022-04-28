@@ -22,7 +22,7 @@ This was a collaborative project of six member to create a clone of pluralsight 
 
 ## API Reference
 
-#### API Link :- https://pluralsightapi.herokuapp.com
+#### API Link :- https://pluralsightapi.herokuapp.com/course
 
 #### Get all items
 
@@ -56,7 +56,11 @@ To run this project, you will need to add the following environment variables to
 
 ## Contributor
 
-[@Suman Giri](https://github.com/SumanJK)
+- [@Suman Giri](https://github.com/SumanJK)
+- [@Dharampal Kumar](https://github.com/Dharm8434)
+- [@Anwerdeen M](https://github.com/AnwardeenM)
+- [@Surajit Dhar](https://github.com/surajit00)
+- [@Ranjith](https://github.com/ranjith1211)
 
 
 ## Limitations
